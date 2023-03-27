@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GitHubUserApp</string>
+    <string name="open_profile_in_browser">Open profile in browser</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="find_ur_github_username">Find ur GitHub username!</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="setting">Setting</string>
+    <string name="empty_favorite">There\'s No Favorite Users\nClick ♡ To Add User In Favorites</string>
+    <string name="empty_followers">There\'s No List Followers in this User</string>
+    <string name="empty_following">There\'s No List Following in this User</string>
+    <string name="created_by">Created by\nRidho Gymnastiar Al Rasyid\nMade With Love ♡</string>
+    <string name="users">Users</string>
+    <string name="favorite_user">Favorite Users</string>
+    <string name="list_favorite_users">List Favorite Users</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="white_mode">White mode</string>
+    <string name="delete_favorite">delete_favorite</string>
+    <string name="list_more_users">List More Users</string>
+
+</resources>
