@@ -19,9 +19,6 @@
 - ViewPager2
 - Material Components
 
-### Video Apps
-[Uploading device-2023-03-27-163529.webm…]()
-
 ### ScreenShoot Apps
 
 ![Github User App Dark Theme](https://user-images.githubusercontent.com/69922597/227901196-27262f4c-45eb-4d4c-9100-5904a4253179.png)
